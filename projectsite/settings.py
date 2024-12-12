@@ -26,7 +26,6 @@ SECRET_KEY = 'django-insecure-%t1%v77*(@if7+tqq-vsc6o14*5@6=w*_-)8y!fe%vd$b3y+k1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
 ALLOWED_HOSTS = ['qlprinting.pythonanywhere.com', '127.0.0.1']
 
 

@@ -21,4 +21,5 @@ from qlprinting import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.comingsoon, name='home'),
+    path('wip/', views.LandingPage, name='LandingPage'),
 ]
